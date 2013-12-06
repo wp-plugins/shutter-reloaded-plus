@@ -39,29 +39,29 @@ The plugin can also "auto-make" image sets for each Post, so when several posts 
 == Changelog ==
 
 = 0.5 =
-= Fixed margin showing under the bottom bar
-= Modifyed colors of overlayer and bar to black for a more crisp look
-= Added Facebook Like Button for the current page in the bottom bar
-= Option to only load it on single pages or posts
-= Fixed click outside the picture to close
-= Option to overwrite Nextgen Gallery's lightbox
+* Fixed margin showing under the bottom bar
+* Modifyed colors of overlayer and bar to black for a more crisp look
+* Added Facebook Like Button for the current page in the bottom bar
+* Option to only load it on single pages or posts
+* Fixed click outside the picture to close
+* Option to overwrite Nextgen Gallery's lightbox
 
 = 0.4 =
-= Fixed overlayer not showing up upon install
-= Fixed buttons which showed up smaller because of theme influence. Now they won't be affected by the theme used
+* Fixed overlayer not showing up upon install
+* Fixed buttons which showed up smaller because of theme influence. Now they won't be affected by the theme used
 
 = 0.3 =
-= Google Analytics integrations, each view of a picture will count as a view of the page
+* Google Analytics integrations, each view of a picture will count as a view of the page
 
 = 0.2 =
-= Sprite icons as png file
-= Remove css and js version to enable browser cache
+* Sprite icons as png file
+* Remove css and js version to enable browser cache
 
 = 0.1 =
-= Bigger buttons than the default ones
-= Keyboard navigation, left-right arrows and close using Esc key
-= Click on the picture to go to next picture
-= Click outside the picture to close
+* Bigger buttons than the default ones
+* Keyboard navigation, left-right arrows and close using Esc key
+* Click on the picture to go to next picture
+* Click outside the picture to close
 
 == Installation ==
 
