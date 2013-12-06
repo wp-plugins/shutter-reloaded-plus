@@ -8,14 +8,27 @@ Tags: images, javascript, viewer, lightbox
 Requires at least: 3.0
 Tested up to: 3.7.1
 Stable tag: 0.5
-Version: 0.5
 
 Darkens the current page and displays an image (like Lightbox, Thickbox, etc.), but is a lot smaller (10KB) and faster.
 
 
 == Description ==
 
-Shutter Reloaded Plus is an image viewer for your website that works similarly to Lightbox, Thickbox, etc. but is under 10KB in size and does not require any external libraries. It has many features: resizing large images if the window is too small to display them with option to show the full size image, combining images in sets, redrawing the window after resizing, pre-loading of neighbour images for faster display and very good browser compatibility.
+Shutter Reloaded Plus is an image viewer for your website that works similarly to Lightbox, Thickbox, etc. but is under 10KB in size and does not require any external libraries.
+
+It has many features:
+
+- keyboard navigation, left and right arrows, and close by pressing the Esc key
+- resizing large images if the window is too small to display them with option to show the full size image
+- combining images in sets
+- redrawing the window after resizing, RESPONSIVE
+- pre-loading of neighbour images for faster display and very good browser compatibility
+- integrate with Google Analytics to count each image view as a page view
+- option to overwrite NextGen Gallery's effects (Lightbox, Fancybox)
+- option to display a like button for the current page in the control bar
+- click on the image goes to the next image
+- click outsite de image to close de slideshow
+- all images user for buttons are in a PNG sprite, so it only has 3 HTTP request (image, js and css)
 
 This plugin offers customization of the colour and opacity settings for the background and colour for the caption text, buttons text and the menu background.
 
@@ -23,34 +36,32 @@ There are options to enable it for all links pointing to an image on your site (
 
 The plugin can also "auto-make" image sets for each Post, so when several posts are displayed on the "Home" page, links to images on each post will be in a separate set. See the built-in help for more information.
 
-Added keyboard controls, outside the image click closes the slideshow, image click goes to the next image, bigger, sprite icons, google analytics tracking. Darkens the current page and displays an image on top like Lightbox, Thickbox, etc. However this script is a lot smaller and faster.
-
 == Changelog ==
 
 = 0.5 =
-Fixed margin showing under the bottom bar
-Modifyed colors of overlayer and bar to black for a more crisp look
-Added Facebook Like Button for the current page in the bottom bar
-Option to only load it on single pages or posts
-Fixed click outside the picture to close
-Option to overwrite Nextgen Gallery's lightbox
+= Fixed margin showing under the bottom bar
+= Modifyed colors of overlayer and bar to black for a more crisp look
+= Added Facebook Like Button for the current page in the bottom bar
+= Option to only load it on single pages or posts
+= Fixed click outside the picture to close
+= Option to overwrite Nextgen Gallery's lightbox
 
 = 0.4 =
-Fixed overlayer not showing up upon install
-Fixed buttons which showed up smaller because of theme influence. Now they won't be affected by the theme used
+= Fixed overlayer not showing up upon install
+= Fixed buttons which showed up smaller because of theme influence. Now they won't be affected by the theme used
 
 = 0.3 =
-Google Analytics integrations, each view of a picture will count as a view of the page
+= Google Analytics integrations, each view of a picture will count as a view of the page
 
 = 0.2 =
-Sprite icons as png file
-Remove css and js version to enable browser cache
+= Sprite icons as png file
+= Remove css and js version to enable browser cache
 
 = 0.1 =
-Bigger buttons than the default ones
-Keyboard navigation, left-right arrows and close using Esc key
-Click on the picture to go to next picture
-Click outside the picture to close
+= Bigger buttons than the default ones
+= Keyboard navigation, left-right arrows and close using Esc key
+= Click on the picture to go to next picture
+= Click outside the picture to close
 
 == Installation ==
 
