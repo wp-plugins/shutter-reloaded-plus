@@ -1,9 +1,9 @@
 === Shutter Reloaded Plus ===
-Contributors: Andrew Ozz. Modified by Danaila Iulian Nicu (danaila_iulian)
+Contributors: Danaila Iulian Nicu, Andrew Ozz
 Plugin Name: Shutter Reloaded Plus
 Plugin URI: http://www.itinfo.ro/shutter-reloaded-plus/
 Author URI: http://www.itinfo.ro/
-Author: Andrew Ozz. Modified by Danaila Iulian Nicu
+Author: Danaila Iulian Nicu
 Tags: images, javascript, viewer, lightbox
 Requires at least: 3.0
 Tested up to: 3.7.1
