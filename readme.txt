@@ -29,6 +29,7 @@ It has many features:
 - click on the image goes to the next image
 - click outsite de image to close de slideshow
 - all images user for buttons are in a PNG sprite, so it only has 3 HTTP request (image, js and css)
+- option to only load it on single pages and posts
 
 This plugin offers customization of the colour and opacity settings for the background and colour for the caption text, buttons text and the menu background.
 
