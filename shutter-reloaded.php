@@ -159,7 +159,6 @@ function srel_activate() {
 		update_option('srel_main', '');
 
 	//if ( false === get_option('srel_options') )
-	var_dump('test');
 		update_option('srel_options', $def);
 
 	if ( false === get_option('srel_included') )
@@ -170,6 +169,7 @@ function srel_activate() {
 }
 register_activation_hook( __FILE__, 'srel_activate' );
 //add_action('shutter-reloaded-plus/shutter-reloaded.php', 'srel_activate');
+
 
 function srel_optpage() {
 	define('SREL_SETTINGS', true);
