@@ -5,7 +5,6 @@ Plugin URI: http://www.itinfo.ro/shutter-reloaded-plus/
 Author URI: http://www.itinfo.ro/
 Author: Danaila Iulian Nicu
 License: GPLv2 or later
-Donate link: http://themeofthecrop.com
 Tags: images, javascript, viewer, lightbox
 Requires at least: 3.0
 Tested up to: 3.7.1
