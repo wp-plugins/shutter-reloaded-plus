@@ -4,7 +4,7 @@ Plugin Name: Shutter Reloaded Plus
 Plugin URI: http://www.itinfo.ro/shutter-reloaded-plus/
 Description: Added keyboard controls, outside the image click closes the slideshow, image click goes to the next image, bigger, sprite icons, google analytics tracking. Darkens the current page and displays an image on top like Lightbox, Thickbox, etc. However this script is a lot smaller and faster.
 Version: 0.5
-Author: Andrew Ozz. Modified by Danaila Iulian Nicu
+Author: Danaila Iulian Nicu
 Author URI: http://www.itinfo.ro/
 
 Released under the GPL version 2 or newer, http://www.gnu.org/copyleft/gpl.html
@@ -159,7 +159,6 @@ function srel_activate() {
 		update_option('srel_main', '');
 
 	//if ( false === get_option('srel_options') )
-	var_dump('test');
 		update_option('srel_options', $def);
 
 	if ( false === get_option('srel_included') )
@@ -170,6 +169,7 @@ function srel_activate() {
 }
 register_activation_hook( __FILE__, 'srel_activate' );
 //add_action('shutter-reloaded-plus/shutter-reloaded.php', 'srel_activate');
+
 
 function srel_optpage() {
 	define('SREL_SETTINGS', true);
