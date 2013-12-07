@@ -5,21 +5,23 @@ Plugin URI: http://www.itinfo.ro/shutter-reloaded-plus/
 Author URI: http://www.itinfo.ro/
 Author: Danaila Iulian Nicu
 License: GPLv2 or later
-Tags: images, javascript, viewer, lightbox
+Tags: images, javascript, viewer, lightbox, keyboard navigation, arrow keys, responsive, gallery, slideshow
 Requires at least: 3.0
 Tested up to: 3.7.1
 Stable tag: 0.5
 
-Darkens the current page and displays an image (like Lightbox, Thickbox, etc.), but is a lot smaller (10KB) and faster.
+Darkens the current page and displays an image (like Lightbox, Thickbox, etc.), but is a lot smaller (8KB) and faster.
 
 
 == Description ==
 
-Shutter Reloaded Plus is an image viewer for your website that works similarly to Lightbox, Thickbox, etc. but is under 10KB in size and does not require any external libraries.
+Shutter Reloaded Plus is an image viewer for your website that works similarly to Lightbox, Thickbox, etc. but is under 8KB in size and does not require any external libraries.
+
+It is fully responsive, cross-browser and mobile ready. Tested on Chrome, Safari, Firefox, Internet Explorer, Android phones and tablets, Windows Phone 8.
 
 It has many features:
 
-- keyboard navigation, left and right arrows, and close by pressing the Esc key
+- keyboard navigation with arrow keys, left and right arrows, and close by pressing the Esc key
 - resizing large images if the window is too small to display them with option to show the full size image
 - combining images in sets
 - redrawing the window after resizing, RESPONSIVE
@@ -29,7 +31,7 @@ It has many features:
 - option to display a like button for the current page in the control bar
 - click on the image goes to the next image
 - click outsite de image to close de slideshow
-- all images user for buttons are in a PNG sprite, so it only has 3 HTTP request (image, js and css)
+- all images used for buttons are in a PNG sprite, so it only has 3 HTTP request (image, js and css)
 - option to only load it on single pages and posts
 
 This plugin offers customization of the colour and opacity settings for the background and colour for the caption text, buttons text and the menu background.
