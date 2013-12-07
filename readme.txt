@@ -4,6 +4,7 @@ Plugin Name: Shutter Reloaded Plus
 Plugin URI: http://www.itinfo.ro/shutter-reloaded-plus/
 Author URI: http://www.itinfo.ro/
 Author: Danaila Iulian Nicu
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QHKTHAXG6RKUY
 License: GPLv2 or later
 Tags: images, javascript, viewer, lightbox, keyboard navigation, arrow keys, responsive, gallery, slideshow
 Requires at least: 3.0
