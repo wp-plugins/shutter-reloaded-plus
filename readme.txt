@@ -7,9 +7,9 @@ Author: Danaila Iulian Nicu
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QHKTHAXG6RKUY
 License: GPLv2 or later
 Tags: images, javascript, viewer, lightbox, keyboard navigation, arrow keys, responsive, gallery, slideshow
-Requires at least: 3.0
-Tested up to: 3.7.1
-Stable tag: 0.5
+Requires at least: 3.5
+Tested up to: 3.8-RC2
+Stable tag: 0.6
 
 Darkens the current page and displays an image (like Lightbox, Thickbox, etc.), but is a lot smaller (8KB) and faster.
 
@@ -42,6 +42,12 @@ There are options to enable it for all links pointing to an image on your site (
 The plugin can also "auto-make" image sets for each Post, so when several posts are displayed on the "Home" page, links to images on each post will be in a separate set. See the built-in help for more information.
 
 == Changelog ==
+
+= 0.6 =
+* Partial fix on Iphones on Safari
+* Added color pickers in the admin page
+* Added Help Tab in the admin page
+* Refactored admin page html code for clearer options and brought to 3.8 standards
 
 = 0.5 =
 * Fixed margin showing under the bottom bar

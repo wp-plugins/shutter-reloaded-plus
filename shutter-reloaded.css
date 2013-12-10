@@ -1,4 +1,4 @@
-/*v0.5*/
+/*v0.6*/
 div#shNavBar a {color: #ccc;text-decoration: none;border: 0 none;padding: 0;cursor: pointer;vertical-align: middle;display: inline-block;height: 38px !important;}
 div#shNavBar a img {opacity: 0.6;filter: alpha(opacity=60);}
 div#shNavBar a:hover {color: #fff;}
