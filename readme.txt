@@ -8,7 +8,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 License: GPLv2 or later
 Tags: images, javascript, viewer, lightbox, keyboard navigation, arrow keys, responsive, gallery, slideshow
 Requires at least: 3.5
-Tested up to: 3.8-RC2
+Tested up to: 3.8
 Stable tag: 0.6
 
 Darkens the current page and displays an image (like Lightbox, Thickbox, etc.), but is a lot smaller (8KB) and faster.
